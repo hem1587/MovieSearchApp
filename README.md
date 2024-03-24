@@ -29,7 +29,8 @@
    npm install
 3. Run the app
    npm run start
-   ![MovieSearchApp]([https://github.com/hem1587/newdigback/assets/112814262/bbef5eb0-c12d-4db2-9c8d-477513e84fbb](https://github.com/hem1587/hem1587.github.io/assets/112814262/b82f3c8e-a261-4981-8665-34b533acd677)https://github.com/hem1587/hem1587.github.io/assets/112814262/b82f3c8e-a261-4981-8665-34b533acd677)
+  ![Screenshot (255)](https://github.com/hem1587/hem1587.github.io/assets/112814262/b82f3c8e-a261-4981-8665-34b533acd677)
+![Screenshot (256)](https://github.com/hem1587/hem1587.github.io/assets/112814262/1d8c0cb1-0160-4440-9755-302abad8858d)
 
     link: [vercel](https://todo-app-tawny-gamma.vercel.app/)
 
