@@ -23,8 +23,6 @@ This Movie Information App allows users to search for movies and view detailed i
 ## Installation
 
 1. Clone the repository to your local machine:
-   
-  ```bash
    git clone https://github.com/your-username/MovieSearchApp.git
 2. Install dependencies
    npm install
