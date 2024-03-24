@@ -1,6 +1,7 @@
 
 ## Movie Search App 
-## Introduction:-This Movie Information App allows users to search for movies and view detailed information about them, such as title, year, director, actors, and more. The app leverages the OMDb API to fetch movie data and displays it in a user-friendly interface built with React and Chakra UI.
+## Introduction:-
+This Movie Information App allows users to search for movies and view detailed information about them, such as title, year, director, actors, and more. The app leverages the OMDb API to fetch movie data and displays it in a user-friendly interface built with React and Chakra UI.
 
 ## Features
 
@@ -22,14 +23,14 @@
 ## Installation
 
 1. Clone the repository to your local machine:
+   
   ```bash
    git clone https://github.com/your-username/MovieSearchApp.git
 2. Install dependencies
    npm install
 3. Run the app
    npm run start
-
-  ![Screenshot (255)](https://github.com/hem1587/hem1587.github.io/assets/112814262/b82f3c8e-a261-4981-8665-34b533acd677)
+ ![Screenshot (255)](https://github.com/hem1587/hem1587.github.io/assets/112814262/b82f3c8e-a261-4981-8665-34b533acd677)
 ![Screenshot (256)](https://github.com/hem1587/hem1587.github.io/assets/112814262/1d8c0cb1-0160-4440-9755-302abad8858d)
 
     link: [vercel](https://movie-app-red-six-99.vercel.app)
